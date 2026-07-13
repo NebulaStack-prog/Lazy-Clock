@@ -21,6 +21,6 @@
 
 ![](Lazy_Clock_2.png)
 
-<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_3.png" width="600" height="300">
+<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_3.png" width="450" height="300">
 
 © NebulaStack
