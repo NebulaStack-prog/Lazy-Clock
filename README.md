@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock.png" width="200" height="230">
 
-A minimal desktop clock – always visible, always  
+> A minimal desktop clock – always visible, always  
 
 ## 💻 Project Run
 - Open with Python: [Lazy_Clock.py](Friday13-I.py)
