@@ -1,6 +1,6 @@
 # Lazy Clock
 
-<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/IMG_20260701_012138_850.jpg" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock.png" width="200" height="230">
 
 A minimal desktop clock – always visible, always  
 
