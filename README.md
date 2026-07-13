@@ -17,7 +17,8 @@
 - 🇺🇲  English version: [Documentation](LazyClock_EN.md)
 
 ## 📷 Screenshots:
-![]()
-![]()
+![](Lazy_Clock_1.png)
+![](Lazy_Clock_2.png)
+![](Lazy_Clock_3.png)
 
 © NebulaStack
