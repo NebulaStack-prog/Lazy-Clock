@@ -20,6 +20,7 @@
 <img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_1.png" width="400" height="460">
 
 ![](Lazy_Clock_2.png)
-![](Lazy_Clock_3.png)
+
+<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_3.png" width="600" height="300">
 
 © NebulaStack
