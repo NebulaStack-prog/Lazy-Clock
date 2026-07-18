@@ -5,7 +5,7 @@
 > A minimal desktop clock – always visible, always movable.
 
 ## 💻 Project Run
-- Open with Python: [Lazy_Clock.py](Friday13-I.py)
+- Open with Python: [Lazy_Clock.py](Lazy_Clock.py.py)
   
 - Or download exe: [Lazy_Clock.exe](https://github.com/NebulaStack-prog/Friday-13-I/releases/tag/v1.0)
 
