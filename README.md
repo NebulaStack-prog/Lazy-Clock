@@ -14,7 +14,7 @@
   
 - 🇺🇲  English version: [Documentation](LazyClock_EN.md)
 
-## 📷 Screenshots:
+## 📷 Screenshots
 <img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_1.png" width="400" height="460">
 
 ![](Lazy_Clock_2.png)
