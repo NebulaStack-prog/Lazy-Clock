@@ -23,4 +23,4 @@
 
 <img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_4.png" width="450" height="300">
 
-© NebulaStack
+© NESTIMS
