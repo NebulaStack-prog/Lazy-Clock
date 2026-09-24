@@ -10,9 +10,9 @@
 - Or download exe: [Lazy_Clock.exe](https://github.com/NebulaStack-prog/Friday-13-I/releases/tag/v1.0)
 
 ## 📄 Full Documentation
-- 🇷🇺  Russian version: [Documentation](LazyClock_RU.md)
+- 🇷🇺  Russian version: [Documentation](Lazy_Clock_RU.md)
   
-- 🇺🇲  English version: [Documentation](LazyClock_EN.md)
+- 🇺🇲  English version: [Documentation](Lazy_Clock_EN.md)
 
 ## 📷 Screenshots
 <img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_1.png" width="400" height="460">
