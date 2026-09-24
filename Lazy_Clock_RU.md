@@ -136,7 +136,7 @@
 
 • Инициализация: настройка PySide6, создание QApplication, установка setQuitOnLastWindowClosed(False).
 
-• Класс ClockWidget:
+• **Класс ClockWidget:**
 
 - __init__(always_on_top=False) – настройка окна, флагов, таймера.
 - paintEvent(event) – отрисовка стрелок и центра.
@@ -147,7 +147,7 @@
   
 - mouseMoveEvent(event) – перемещение окна.
 
-• Класс MainWindow:
+• **Класс MainWindow:**
 
 - __init__() – создание ClockWidget, трея, подключение сигналов.
   
