@@ -7,7 +7,7 @@
 ## 💻 Project Run
 - Open with Python: [Lazy_Clock.py](Lazy_Clock.py)
   
-- Or download exe: [Lazy_Clock.exe](https://github.com/NebulaStack-prog/Friday-13-I/releases/tag/v1.0)
+- Or download exe: [Lazy_Clock.exe](https://github.com/NebulaStack-prog/Lazy-Clock/releases/tag/v1.0.0)
 
 ## 📄 Full Documentation
 - 🇷🇺  Russian version: [Documentation](Lazy_Clock_RU.md)
