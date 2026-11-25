@@ -5,7 +5,7 @@
 > A minimal desktop clock – always visible, always movable.
 
 ## 💻 Project Run
-- Open with Python: [Lazy_Clock-v2.py](Lazy_Clock-v2.py)
+- Open with Python: [Lazy_Clock-New.py](Lazy_Clock-New.py)
   
 - Or download exe: [Lazy_Clock.exe](https://github.com/NebulaStack-prog/Lazy-Clock/releases/tag/v1.0.0)
 
