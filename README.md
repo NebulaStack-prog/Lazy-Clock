@@ -1,32 +1,74 @@
 # Lazy Clock
 
-<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock.png" width="200" height="230">
+<img src="Lazy_Clock.png" width="200" alt="Lazy Clock emblem">
 
 > A minimal desktop clock – always visible, always movable.
 
-## 💻 Project Run
-- Open with Python: [Lazy_Clock-New.py](Lazy_Clock-New.py)
-  
-- Or download exe: [Lazy_Clock.exe](https://github.com/NebulaStack-prog/Lazy-Clock/releases/tag/v1.0.0)
+| Project Information | Details |
+|---|---|
+| Project ID | NS-011 |
+| Direction | Infotech |
+| Development Phase | Phase II |
+| Version | v2.0 |
+| Platform | Windows / Python |
+| Status | Completed |
 
-- Or use ols Python code: [Lazy_Clock.py](Lazy_Clock.py)
+> [![CI](https://github.com/NebulaStack-prog/Lazy-Clock/actions/workflows/ci.yml/badge.svg)](https://github.com/NebulaStack-prog/Lazy-Clock/actions/workflows/ci.yml)
 
-## 📄 Full Documentation
-- 🇷🇺  Russian version: [Documentation](Lazy_Clock_RU.md)
-  
-- 🇺🇲  English version: [Documentation](Lazy_Clock_EN.md)
+## 📖 Overview
+
+A floating analog desktop clock with a transparent background, customizable appearance and system tray controls.
+
+## ✨ Features
+
+- Movable frameless clock with optional always-on-top mode
+
+- Adjustable size and opacity
+
+- Custom hand colors and widths
+
+- Smooth or stepped second hand
+
+- Position locking and persistent settings
+
+- System tray controls
+
+## 🛠 Technology Stack
+
+- Python
+- PySide6
+- QSettings
+
+## 📦 Installation
+
+- Download EXE from Releases: [more...](https://github.com/NebulaStack-prog/Lazy-Clock/releases/tag/v2.0)
+
+- Or run with Python: [more...](Lazy_Clock-New.py)
+
+- Original source code (Old): [more...](Lazy_Clock.py)
+
+## 📄 Documentation
+
+- Russian documentation: [more...](Lazy_Clock_RU.md)
+
+- English documentation: [more...](Lazy_Clock_EN.md)
+
+## 📊 Project Status
+
+A completed NESTIMS Phase II project. Both the original and updated Python implementations are preserved.
 
 ## 📷 Screenshots
-<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_1.png" width="400" height="460">
 
-![](Lazy_Clock_2.png)
+![Screenshot 1](Lazy_Clock_1.png)
 
-<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_3.png" width="450" height="300">
+![Screenshot 2](Lazy_Clock_2.png)
 
-<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_4.png" width="450" height="300">
+![Screenshot 3](Lazy_Clock_3.png)
 
-<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_5.png" width="450" height="300">
+![Screenshot 4](Lazy_Clock_4.png)
 
-<img src="https://github.com/NebulaStack-prog/Lazy-Clock/blob/main/Lazy_Clock_6.png" width="450" height="850">
+![Screenshot 5](Lazy_Clock_5.png)
+
+![Screenshot 6](Lazy_Clock_6.png)
 
 © NESTIMS
