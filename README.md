@@ -41,13 +41,13 @@ A floating analog desktop clock with a transparent background, customizable appe
 
 ## 📦 Installation
 
-- Download EXE from Releases: [more...](https://github.com/NebulaStack-prog/Lazy-Clock/releases/tag/v2.0)
+- Download the Windows executable from Releases: [more...](https://github.com/NebulaStack-prog/Lazy-Clock/releases/tag/v2.0)
 
-- Or run with Python: [more...](Lazy_Clock-New.py)
+- Or run with Python latest version of code: [more...](Lazy_Clock-New.py)
 
 - Original source code (Old): [more...](Lazy_Clock.py)
 
-## 📄 Documentation
+## 📄 Documentation (For old code)
 
 - Russian documentation: [more...](Lazy_Clock_RU.md)
 
